@@ -1,0 +1,7 @@
+--extra-index-url https://casa-pip.nrao.edu/repository/pypi-casa-release/simple
+numpy
+scipy
+matplotlib
+astropy
+seaborn
+git+https://github.com/radio-astro-tools/radio-beam/#egg=radio-beam
